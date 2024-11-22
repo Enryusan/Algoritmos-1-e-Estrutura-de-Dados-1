@@ -43,8 +43,9 @@ This repository reflects my practical learning. It can also serve as a future re
 💡 How to Use
 
     Clone the repository:
+    git clone https://github.com/Enryusan/ALG1ED1.git  
 
-git clone https://github.com/Enryusan/ALG1ED1.git  
 
 Navigate to the folder containing the code you want to run.
-Compile and execute the main file.
+Execute or modify the code.
+The compiled file is in the output folder (for Unix-based OS users).
