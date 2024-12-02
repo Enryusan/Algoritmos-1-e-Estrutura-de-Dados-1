@@ -3,7 +3,7 @@
 #include <locale.h>
 
 
-//Faça um programa que leia um número inteiro e informe se ele é par ou não
+// Faça um programa que leia um número inteiro e informe se ele é par ou não
 
 
 int main(void) {

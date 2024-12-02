@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*Faça um programa que leia dois números inteiros e imprima
-na tela se a soma deles é maior na tela se a soma deles é maior ou igual a 10 ou menor que 10*/
+/* Faça um programa que leia dois números inteiros e imprima
+na tela se a soma deles é maior na tela se a soma deles é maior ou igual a 10 ou menor que 10 */
 
 int main(void) {
     setlocale(LC_ALL, "");

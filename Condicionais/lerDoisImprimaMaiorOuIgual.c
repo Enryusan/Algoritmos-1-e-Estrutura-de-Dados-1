@@ -2,10 +2,8 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*
-Faça um programa que leia dois números inteiros e imprima
-na tela qual é o maior deles ou se são iguais
-*/
+/* Faça um programa que leia dois números inteiros e imprima
+na tela qual é o maior deles ou se são iguais */
 
 int main(void){
     setlocale(LC_ALL, "");
